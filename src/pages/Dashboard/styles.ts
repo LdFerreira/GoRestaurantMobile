@@ -77,7 +77,7 @@ export const FoodsContainer = styled.View`
 
 export const FoodList = styled.View`
   flex: 1;
-  padding: 0 20px;
+  padding: 0 30px;
   margin-top: 16px;
 `;
 
@@ -106,7 +106,7 @@ export const FoodContent = styled.View`
 export const FoodTitle = styled.Text`
   font-family: 'Poppins-Regular';
   font-style: normal;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 15px;
   line-height: 22px;
   color: #3d3d4d;
